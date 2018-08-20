@@ -1,0 +1,18 @@
+{
+  "name": "proxyquire-215",
+  "version": "1.0.0",
+  "description": "Example of failure using proxyquire: https://github.com/thlorenz/proxyquire/issues/215",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha app.mocha.js"
+  },
+  "author": "Michael Collins <intervalia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.1.0",
+    "mocha": "^5.2.0",
+    "proxyquire": "^2.0.1"
+  }
+}
